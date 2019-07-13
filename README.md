@@ -1,7 +1,9 @@
 ![Homepage screenshot](src/github/screenshot.JPG)
 
+# Moj Homepage
 
-# Strona ta powstaje w trakcie nauki na kursie **WTF: Co Ten Frontend?**
+
+## Strona ta powstaje w trakcie nauki na kursie **WTF: Co Ten Frontend?**
 
 ## Do zbudowania tego projektu wykorzystywane są :
 - ***HTML 5***
@@ -14,7 +16,8 @@
 
 [Przejdź](https://karolskalinski.github.io/homepage-gulp/) do strony.
 
-## wtf-gulp-starter
+## Aby uruchomić stronę lokalnie wykonaj poniższe polecenia:
+### wtf-gulp-starter
 
 `npm install -g gulp-cli`
 
