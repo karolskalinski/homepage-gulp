@@ -1,4 +1,4 @@
-![Homepage screenshot]()
+![Homepage screenshot](src/github/screenshot.JPG)
 
 
 # Strona ta powstaje w trakcie nauki na kursie **WTF: Co Ten Frontend?**
